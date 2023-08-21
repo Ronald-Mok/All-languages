@@ -1,1 +1,9 @@
-ads
+// This is a simple program that outputs "Hello World!"
+
+#include <iostream>
+
+int main()
+{
+    std::cout << "Hello, World!\n";
+    return 0;
+}
