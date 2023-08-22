@@ -1,1 +1,47 @@
-agit wq
+QN1: What is the purpose of the "Hello, World!" program?
+ANS1: The purpose of the program is to give you a feel of the programming environment and let you experince how a computer can do work for you
+
+
+QN2: Name the four parts of a function.
+ANS2: 1. A name for the function 
+      2. Parameter for the function
+      3. The body of the function which consists of statements, starting and ending with {}
+      4. A return type for the function 
+
+
+QN3: Name a function that must appear in every C++ program.
+ANS3: The "main" function
+
+
+QN4: In the "Hello, World!" program, what is the purpose of the line return 0;?
+ANS4: It is to tell the "system" that this is the end of the program
+
+
+QN5: What is the purpose of the compiler?
+ANS5: To convert human-readable source code to machine code
+
+
+QN6: What is the purpose of the #include directive?
+ANS6: It is a directive for C++ to include tools from the package mentioned after the #include directive
+
+
+QN7: What does a .h suffix at the end of a file name signify in C++?
+ANS7: The .h suffix signifies that the file is a header file 
+
+
+QN8: What does a linker do for your program?
+ANS8: A linker links the object code we wrote with object codes we used from the standard library to produce an executable program
+
+
+QN9: What is the difference between a source file and an object file?
+ANS9: Source file - Human-readable code which ends with suffix of whatever language you wrote it in, and machines cannot understand the code
+      Object file - Non readable by humans and files end with .o or .obj
+
+
+QN10: What is an IDE and what does it do for you?
+ANS10: Integrated Development Environment. It provides many useful functions when writing code, and makes it easier and more convenient when compiling too
+
+
+QN11: If you understand everything in this text book, why is it necessary to practice?
+ANS11: It is necessary to continue practice even if you are a master at something, without constant practice, we would not be able to maintain
+       a high-level practical skill
