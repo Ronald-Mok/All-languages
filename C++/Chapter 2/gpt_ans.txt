@@ -35,4 +35,4 @@ Certainly! Here are the answers to your questions:
     An Integrated Development Environment (IDE) is a software application that provides tools for writing, compiling, debugging, and managing code in one unified interface. It streamlines the development process and provides features like code editing, project management, debugging, and version control.
 
 11. **Necessity of Practice Despite Understanding Textbook:**
-    While understanding the material in a textbook is important, practical application through coding and problem-solving enhances your ability to apply knowledge, troubleshoot issues, and gain experience. Practicing helps reinforce concepts, build confidence, and adapt to real-world scenarios that textbooks may not cover comprehensively.
+    While understanding the material in a textbook is important, practical application through coding and problem-solving enhances your ability to apply knowledge, troubleshoot issues, and gain experience. Practicing helps reinforce concepts, build confidence, and adapt to real-world scenarios that textbooks may not cover comprehensively.s
