@@ -1,5 +1,6 @@
 QN1: What is the purpose of the "Hello, World!" program?
-ANS1: The purpose of the program is to give you a feel of the programming environment and let you experince how a computer can do work for you
+ANS1: The purpose of the program is demonstrate the basic syntax of the programming language 
+      to give you a feel of the programming environment and let you experince how a computer can do work for you
 
 
 QN2: Name the four parts of a function.
