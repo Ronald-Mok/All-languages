@@ -2,14 +2,15 @@
 
 int main(){
 
-    int x, y;                                                        // Create 2 variables x and y
-    
-    std::cout << "Enter 1st number: ";                               // Receives input for x
+    int x, y;
+
+    std::cout << "Enter 1st Number: ";
     std::cin >> x;
-    std::cout << "Enter 2nd number: ";                               // Receives input for y       
+    std::cout << "Enter 2nd Number: ";
     std::cin >> y;
 
-    std::cout << "The sum of x and y is: " << x + y << '\n';         // Final Sum of x and y
+    std::cout << "The sum of x and y is: " << (x + y) << '\n';
+    std::cout << "The subtraction of x and y is: " << (x - y) << '\n';
 
-
+    return 0;
 }
