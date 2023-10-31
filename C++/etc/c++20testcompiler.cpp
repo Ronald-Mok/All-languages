@@ -1,3 +1,5 @@
+// This program is to test if compiler is C++20 standard
+
 #include <array>
 #include <iostream>
 #include <span>
