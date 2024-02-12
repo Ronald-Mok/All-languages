@@ -10,6 +10,21 @@
 
 
 
-x, y = False, True
+# x, y = False, True
 
-print((x or y))
+# print((x or y))
+
+# x = input("Enter: ")
+
+# print(x)
+
+
+# print("cheachea".replace("ch", "x"))
+
+# customers = [("John", 240000),
+# ("Alice", 120000),
+# ("Ann", 1100000),
+# ("Zach", 44000)]
+
+# whales = [x for x,y in customers if y<1000000]
+# print(whales)
