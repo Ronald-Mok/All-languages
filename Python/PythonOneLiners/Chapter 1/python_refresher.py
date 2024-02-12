@@ -1,4 +1,4 @@
-# # This is a Python refresher
+###### This is a Python refresher ######
 
 
 
@@ -75,13 +75,37 @@
 ### Lambdas
 
 # Syntax for Lambda
-# lambda <argument>: <return expression>
+# (lambda <paramters>: <func>)(<arguments>)
 
 # Example:
 
 # print((lambda x, y, z: x + y + z)(4, 5, 1))
 
+# print((lambda a, b: a + b)("Hello ", "World"))
 
 
-# map() and reduce()
 
+### map() and reduce()
+
+# The map() function applies a function to an iterable object
+
+# map() Syntax
+# map(<func>, <Argument>)
+
+# Example:
+
+# def sum(a):
+#     return len(a)
+
+# iterable = [["Oskar"], "John", "Bob"]       # ["Oskar"] is a single element in list thus returning [1, 4, 3] in final result
+
+# x = map(sum, (iterable))
+
+# print(x)    # Prints out object x
+
+# print(list(x))
+
+
+
+
+### END ###

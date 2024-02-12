@@ -1,3 +1,7 @@
+### This is a scrap file to practice or test code
+
+
+
 # def torf(exp):  
 #     if exp == "and":
 #         return and
